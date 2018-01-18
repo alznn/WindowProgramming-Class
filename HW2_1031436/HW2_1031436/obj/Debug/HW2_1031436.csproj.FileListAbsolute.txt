@@ -1,0 +1,8 @@
+c:\users\hp\documents\visual studio 2015\Projects\HW2_1031436\HW2_1031436\bin\Debug\HW2_1031436.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\HW2_1031436\HW2_1031436\bin\Debug\HW2_1031436.exe
+c:\users\hp\documents\visual studio 2015\Projects\HW2_1031436\HW2_1031436\bin\Debug\HW2_1031436.pdb
+c:\users\hp\documents\visual studio 2015\Projects\HW2_1031436\HW2_1031436\obj\Debug\HW2_1031436.Form1.resources
+c:\users\hp\documents\visual studio 2015\Projects\HW2_1031436\HW2_1031436\obj\Debug\HW2_1031436.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\HW2_1031436\HW2_1031436\obj\Debug\HW2_1031436.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\HW2_1031436\HW2_1031436\obj\Debug\HW2_1031436.exe
+c:\users\hp\documents\visual studio 2015\Projects\HW2_1031436\HW2_1031436\obj\Debug\HW2_1031436.pdb
