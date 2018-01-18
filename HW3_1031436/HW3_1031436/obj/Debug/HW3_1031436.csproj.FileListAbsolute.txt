@@ -1,0 +1,9 @@
+c:\users\hp\documents\visual studio 2015\Projects\HW3_1031436\HW3_1031436\bin\Debug\HW3_1031436.exe.config
+C:\Users\hp\documents\visual studio 2015\Projects\HW3_1031436\HW3_1031436\bin\Debug\HW3_1031436.exe
+C:\Users\hp\documents\visual studio 2015\Projects\HW3_1031436\HW3_1031436\bin\Debug\HW3_1031436.pdb
+C:\Users\hp\documents\visual studio 2015\Projects\HW3_1031436\HW3_1031436\obj\Debug\HW3_1031436.csprojResolveAssemblyReference.cache
+C:\Users\hp\documents\visual studio 2015\Projects\HW3_1031436\HW3_1031436\obj\Debug\HW3_1031436.Form1.resources
+C:\Users\hp\documents\visual studio 2015\Projects\HW3_1031436\HW3_1031436\obj\Debug\HW3_1031436.Properties.Resources.resources
+C:\Users\hp\documents\visual studio 2015\Projects\HW3_1031436\HW3_1031436\obj\Debug\HW3_1031436.csproj.GenerateResource.Cache
+C:\Users\hp\documents\visual studio 2015\Projects\HW3_1031436\HW3_1031436\obj\Debug\HW3_1031436.exe
+C:\Users\hp\documents\visual studio 2015\Projects\HW3_1031436\HW3_1031436\obj\Debug\HW3_1031436.pdb
